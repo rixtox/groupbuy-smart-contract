@@ -1,0 +1,17 @@
+{
+  "name": "groupbuy-smart-contract",
+  "version": "1.0.0",
+  "description": "Make groupbuy more transparent!",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0"
+  }
+}
